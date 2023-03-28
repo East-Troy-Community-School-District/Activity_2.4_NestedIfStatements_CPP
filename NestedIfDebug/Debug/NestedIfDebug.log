@@ -1,0 +1,5 @@
+﻿  NestedIfDebug.cpp
+\\et-fileserver\staff\pawnol\Desktop\NestedIfDebug\NestedIfDebug.cpp(21,9): error C2181: illegal else without matching if
+\\et-fileserver\staff\pawnol\Desktop\NestedIfDebug\NestedIfDebug.cpp(26,5): error C2181: illegal else without matching if
+\\et-fileserver\staff\pawnol\Desktop\NestedIfDebug\NestedIfDebug.cpp(15,23): warning C4390: ';': empty controlled statement found; is this the intent?
+\\et-fileserver\staff\pawnol\Desktop\NestedIfDebug\NestedIfDebug.cpp(17,25): warning C4390: ';': empty controlled statement found; is this the intent?
